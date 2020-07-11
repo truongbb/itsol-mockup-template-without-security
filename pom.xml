@@ -91,12 +91,11 @@
             <version>2.1.10.RELEASE</version>
         </dependency>
 
-
+        <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>5.1.44</version>
-            <scope>runtime</scope>
+            <version>8.0.20</version>
         </dependency>
     </dependencies>
 
